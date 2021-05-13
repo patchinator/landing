@@ -1,0 +1,26 @@
+.footer {
+  background: url(../../images/wood.jpg);
+  background-size: cover;
+  padding: 50px;
+}
+
+.links {
+  list-style: none;
+  padding-left: 0%;
+  text-align: center;
+}
+
+.links li {
+  display: inline-block;
+  font-size: 50px;
+  padding: 12px;
+}
+
+.icon {
+  color: white;
+  transition: background 0.3s ease;
+}
+
+.icon:hover {
+  color: #FE993C;
+}

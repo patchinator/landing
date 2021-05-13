@@ -1,0 +1,30 @@
+.text-center {
+  text-align: center;
+}
+
+.body {
+  width: 800px;
+  margin: auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.card {
+  width: 180px;
+  border-radius: 2px;
+  border: 1px rgb(187, 186, 186);
+  box-shadow: 0 0 0 5px rgb(236, 236, 236);
+  text-align: center;
+  padding: 10px;
+}
+
+.bean-men {
+  height: 80px;
+  border-radius: 50%;
+  border-style: solid;
+  color: #ff9635;
+}

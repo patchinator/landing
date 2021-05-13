@@ -1,0 +1,11 @@
+.banner {
+  background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url(../../images/beans-tasty.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+  color: white;
+}
+
+.banner-info {
+  padding: 30px;
+}
